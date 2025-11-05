@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 import cn from "@/lib/utils";
 import { MdWhatsapp } from "react-icons/md";
-import { useToast } from "@/Hooks/use-toast";
+import { useToast } from "../Hooks/use-toast";
 
 export default function ContactSection() {
   const { toast } = useToast();
