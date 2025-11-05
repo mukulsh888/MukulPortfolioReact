@@ -1,5 +1,5 @@
 import React from "react";
-import { ProjectsList } from "@/constants/projectsList";
+import { ProjectsList } from "../constants/ProjectsList";
 
 
 
