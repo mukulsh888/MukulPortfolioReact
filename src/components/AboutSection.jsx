@@ -29,7 +29,7 @@ export default function AboutSection() {
                 Get In Touch
               </a>
               <a
-                href=""
+                href="/MukulResume.pdf"
                 download
                 className="px-6 py-2 rounded-full border-primary text-primary hover:bg-primary/10 transition-colors duration-100"
               >
