@@ -6,7 +6,7 @@ import { ProjectsList } from "../constants/ProjectsList";
 export default function ProjectSection() {
   
   return (
-    <section id="projects" className="py-24 px-6 relative">
+    <section id="projects" className="py-16 lg:py-24 px-6 relative">
       <div className="container mx-auto max-w-5xl">
         <h2 className="text-3xl md:text-4xl mb-4 font-bold text-center">
           Featured <span className="text-primary">Projects</span>

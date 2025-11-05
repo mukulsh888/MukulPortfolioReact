@@ -3,7 +3,7 @@ import React from "react";
 
 export default function AboutSection() {
   return (
-    <section id="about" className="relative py-24 px-4">
+    <section id="about" className="relative py-16  lg:py-24 px-4">
       <div className="container max-w-5xl mx-auto">
         <h2 className="text-3xl md:text-4xl mb-12 font-bold text-center">
           About <span className="text-primary">Me</span>
